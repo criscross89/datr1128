@@ -34,10 +34,23 @@ Specifically, you will learn to:
 - [Stefan Jansen](https://www.linkedin.com/in/applied-ai/)
 
 **Assistant**:
-- [](X)
-- [](X)
+- Andrew McGraw
+- Pauline Chow
 
 ---
+
+<a id='team'></a>
+## GA Online Student Experience Team
+
+**Contact**: <online@generalassemb.ly>
+
+---
+
+## Class Schedule
+
+- 11/28 to 02/08
+- Tuesdays and Thursdays, 7-10pm EST
+- Holiday Schedule (No Class): Christmas Week (12/26, 12/28)
 
 <a id='course'></a>
 ## Curriculum Structure
@@ -219,9 +232,9 @@ Our Slack homepage is [datr1128](https://datascienceremote.slack.com/).
 ## Office Hours
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
-* IA Office Hours - Day, Time (or by Appointment)
+* IA Office Hours - By appointment using this link: (TBD)
 
-Slack us or post in our #officehours channel to reserve a time-slot!
+Slack us or post in our #datr1128-office-hours channel to reserve a time-slot!
 
 ---
 
