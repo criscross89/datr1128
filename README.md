@@ -72,28 +72,28 @@ General Assembly's Data Science part time materials are organized into **four** 
 
 Here is the schedule we will be following for our part time data science curriculum
 
-Lesson  | Unit Number | Session Number | 
+Lesson  | Unit Number | Session Number | Date |
 --------- | ---------  | ---------  |
-[What is Data Science?][1-1A]              | Unit 1 | Session 1 |
-[Your Development Environment][1-1B]       | Unit 1 | Session 2 | 
-[Python Foundations][1-1C]                 | Unit 1 | Session 3 |  
-[Review + Project Workshop][1-1D]          | Unit 1 | Session 4 | 
-[Statistics Review][1-1E]                  | Unit 2 | Session 5 | 
-[Stats & Visualizations in Python][1-1F]   | Unit 2 | Session 6 | 
-[Exploratory Data Analysis][1-1G]          | Unit 2 | Session 7 | 
-[Data Visualization in Python][1-1H]       | Unit 2 | Session 8 | 
-[Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | 
-[Linear Regression][1-1J]                  | Unit 3 | Session 10 | 
-[Train-Test Split & Bias-Variance][1-1K]   | Unit 3 | Session 11 | 
-[KNN / Classification][1-1L]               | Unit 3 | Session 12 | 
-[Logistic Regression][1-1M]                | Unit 3 | Session 13 |
-[Decision Trees][1-1Q]                     | Unit 3 | Session 14 |
-[Review + Project Workshop][1-1N]          | Unit 3 | Session 15 |
-[Clustering][1-1R]                         | Unit 4 | Session 16 |
-[Natural Language Processing][1-1P]        | Unit 4 | Session 17 |
-[Getting Data from API's][1-1O]            | Unit 4 | Session 18 |
-[Review + Project Workshop][1-1T]          | Unit 4 | Session 19 | 
-[Project Presentations][1-1U]              | Unit 4 | Session 20 | 
+[What is Data Science?][1-1A]              | Unit 1 | Session 1 | Nov. 28 |
+[Your Development Environment][1-1B]       | Unit 1 | Session 2 | Nov. 30 |
+[Python Foundations][1-1C]                 | Unit 1 | Session 3 | Dec. 5 |
+[Review + Project Workshop][1-1D]          | Unit 1 | Session 4 | Dec. 7 |
+[Statistics Review][1-1E]                  | Unit 2 | Session 5 | Dec. 12 |
+[Stats & Visualizations in Python][1-1F]   | Unit 2 | Session 6 | Dec. 14 |
+[Exploratory Data Analysis][1-1G]          | Unit 2 | Session 7 | Dec. 19 |
+[Data Visualization in Python][1-1H]       | Unit 2 | Session 8 | Dec. 21 |
+[Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | Jan. 2 |
+[Linear Regression][1-1J]                  | Unit 3 | Session 10 | Jan. 4 |
+[Train-Test Split & Bias-Variance][1-1K]   | Unit 3 | Session 11 | Jan. 9 |
+[KNN / Classification][1-1L]               | Unit 3 | Session 12 | Jan. 11 |
+[Logistic Regression][1-1M]                | Unit 3 | Session 13 | Jan. 16 |
+[Decision Trees][1-1Q]                     | Unit 3 | Session 14 | Jan. 18 |
+[Review + Project Workshop][1-1N]          | Unit 3 | Session 15 | Jan. 23 |
+[Clustering][1-1R]                         | Unit 4 | Session 16 | Jan. 25 |
+[Natural Language Processing][1-1P]        | Unit 4 | Session 17 | Jan. 30 |
+[Getting Data from API's][1-1O]            | Unit 4 | Session 18 | Feb. 1 |
+[Review + Project Workshop][1-1T]          | Unit 4 | Session 19 | Feb. 6 |
+[Project Presentations][1-1U]              | Unit 4 | Session 20 | Feb. 8 |
 
 
 [1-1A]: X
