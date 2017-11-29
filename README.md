@@ -73,7 +73,7 @@ General Assembly's Data Science part time materials are organized into **four** 
 Here is the schedule we will be following for our part time data science curriculum
 
 Lesson  | Unit Number | Session Number | Date |
---------- | ---------  | ---------  |
+--------- | ---------  | ---------  | ---------  |
 [What is Data Science?][1-1A]              | Unit 1 | Session 1 | Nov. 28 |
 [Your Development Environment][1-1B]       | Unit 1 | Session 2 | Nov. 30 |
 [Python Foundations][1-1C]                 | Unit 1 | Session 3 | Dec. 5 |
