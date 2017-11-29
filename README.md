@@ -34,7 +34,7 @@ Specifically, you will learn to:
 - [Stefan Jansen](https://www.linkedin.com/in/applied-ai/)
 
 **Assistant**:
-- Andrew McGraw
+- Beth Tenorio
 - Pauline Chow
 
 ---
