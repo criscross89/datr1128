@@ -173,12 +173,12 @@ Date  | Deliverable |
 12/07 | Unit Project 1 - Python Code Challenges
 01/02 | Unit Project 2 - Exploratory Data Analysis (EDA)
 01/04 | Final Pt 1: Create Problem statement
-01/07 |Final Pt 2: Define Data sources
-01/18 | Optional: Regression & KNN Practice
-01/23 |Final Pt 3: Perform EDA on Data
-02/01 |Final Pt 4: Model Data
-02/06 |Project Workshop
-02/08 |Final Project Presentations
+01/07 | Final Pt 2: Define Data sources
+01/18 | Optional Project 3: Regression & KNN Practice
+01/23 | Final Pt 3: Perform EDA on Data
+02/01 | Final Pt 4: Model Data
+02/06 | Project Workshop
+02/08 | Final Project Presentations
 
 ---
 
