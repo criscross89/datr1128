@@ -125,7 +125,7 @@ Tuesday  | Topic | Thursday  | Topic
 12/05 |Python Foundations                 |12/07 |Review + Project Workshop
 12/12 |Statistics Review                  |12/14 |Stats & Visualizations in Python
 12/19 |Exploratory Data Analysis          |12/21 |Data Visualization in Python
-12/26 |Review + Project Workshop          |01/04 |Linear Regression
+01/02 |Review + Project Workshop          |01/04 |Linear Regression
 01/09 |Train-Test Split & Bias-Variance   |01/11 |KNN / Classification
 01/16 |Logistic Regression                |01/18 |Decision Trees
 01/23 |Review + Project Workshop          |01/25 |Clustering
