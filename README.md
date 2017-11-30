@@ -168,19 +168,17 @@ The final project asks you to apply your skills to a real world problem. This fi
 
 ---
 
-Tuesday  | Deliverable | Thursday  | Deliverable
--------- | ---------   | ---------  | ---------
-11/28 |-               |11/30       |-
-12/05 |-               |12/07       |Unit Project 1 - Python Code Challenges
-12/12 |-               |12/14 |-
-12/19 |-               |12/21 |-
-12/26 |Unit Project 2 - Exploratory Data Analysis (EDA)        |01/04 |Final Pt 1: Create Problem statement
-01/09 |-   |09/07 |Final Pt 2: Define Data sources
-01/16 |-                                  |01/18 | Optional: Regression & KNN Practice
-01/23 |Final Pt 3: Perform EDA on Data|01/25 |-
-01/30 |-                                  |02/01 |Final Pt 4: Model Data
-02/06 |Project Workshop                   |02/08 |Final Project Presentations
-
+Date  | Deliverable |
+-------- | ---------   |
+12/07 | Unit Project 1 - Python Code Challenges
+01/02 | Unit Project 2 - Exploratory Data Analysis (EDA)
+01/04 | Final Pt 1: Create Problem statement
+01/07 |Final Pt 2: Define Data sources
+01/18 | Optional: Regression & KNN Practice
+01/23 |Final Pt 3: Perform EDA on Data
+02/01 |Final Pt 4: Model Data
+02/06 |Project Workshop
+02/08 |Final Project Presentations
 
 ---
 
