@@ -31,7 +31,7 @@ Specifically, you will learn to:
 ## Your Instructional Team
 
 **Instructor**:
-- [Stefan Jansen](https://www.linkedin.com/in/applied-ai/)
+- [Stefan Jansen](https://www.linkedin.com/in/applied-ai/): stefan.jansen@generalassemb.ly
 
 **Assistant**:
 - Beth Tenorio
