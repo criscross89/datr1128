@@ -31,13 +31,26 @@ Specifically, you will learn to:
 ## Your Instructional Team
 
 **Instructor**:
-- [Stefan Jansen](https://www.linkedin.com/in/applied-ai/)
+- [Stefan Jansen](https://www.linkedin.com/in/applied-ai/): stefan.jansen@generalassemb.ly
 
 **Assistant**:
-- [](X)
-- [](X)
+- Beth Tenorio
+- Pauline Chow
 
 ---
+
+<a id='team'></a>
+## GA Online Student Experience Team
+
+**Contact**: <online@generalassemb.ly>
+
+---
+
+## Class Schedule
+
+- 11/28 to 02/08
+- Tuesdays and Thursdays, 7-10pm EST
+- Holiday Schedule (No Class): Christmas Week (12/26, 12/28)
 
 <a id='course'></a>
 ## Curriculum Structure
@@ -59,28 +72,28 @@ General Assembly's Data Science part time materials are organized into **four** 
 
 Here is the schedule we will be following for our part time data science curriculum
 
-Lesson  | Unit Number | Session Number | 
---------- | ---------  | ---------  |
-[What is Data Science?][1-1A]              | Unit 1 | Session 1 |
-[Your Development Environment][1-1B]       | Unit 1 | Session 2 | 
-[Python Foundations][1-1C]                 | Unit 1 | Session 3 |  
-[Review + Project Workshop][1-1D]          | Unit 1 | Session 4 | 
-[Statistics Review][1-1E]                  | Unit 2 | Session 5 | 
-[Stats & Visualizations in Python][1-1F]   | Unit 2 | Session 6 | 
-[Exploratory Data Analysis][1-1G]          | Unit 2 | Session 7 | 
-[Data Visualization in Python][1-1H]       | Unit 2 | Session 8 | 
-[Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | 
-[Linear Regression][1-1J]                  | Unit 3 | Session 10 | 
-[Train-Test Split & Bias-Variance][1-1K]   | Unit 3 | Session 11 | 
-[KNN / Classification][1-1L]               | Unit 3 | Session 12 | 
-[Logistic Regression][1-1M]                | Unit 3 | Session 13 |
-[Decision Trees][1-1Q]                     | Unit 3 | Session 14 |
-[Review + Project Workshop][1-1N]          | Unit 3 | Session 15 |
-[Clustering][1-1R]                         | Unit 4 | Session 16 |
-[Natural Language Processing][1-1P]        | Unit 4 | Session 17 |
-[Getting Data from API's][1-1O]            | Unit 4 | Session 18 |
-[Review + Project Workshop][1-1T]          | Unit 4 | Session 19 | 
-[Project Presentations][1-1U]              | Unit 4 | Session 20 | 
+Lesson  | Unit Number | Session Number | Date |
+--------- | ---------  | ---------  | ---------  |
+[What is Data Science?][1-1A]              | Unit 1 | Session 1 | Nov. 28 |
+[Your Development Environment][1-1B]       | Unit 1 | Session 2 | Nov. 30 |
+[Python Foundations][1-1C]                 | Unit 1 | Session 3 | Dec. 5 |
+[Review + Project Workshop][1-1D]          | Unit 1 | Session 4 | Dec. 7 |
+[Statistics Review][1-1E]                  | Unit 2 | Session 5 | Dec. 12 |
+[Stats & Visualizations in Python][1-1F]   | Unit 2 | Session 6 | Dec. 14 |
+[Exploratory Data Analysis][1-1G]          | Unit 2 | Session 7 | Dec. 19 |
+[Data Visualization in Python][1-1H]       | Unit 2 | Session 8 | Dec. 21 |
+[Review + Project Workshop][1-1I]          | Unit 2 | Session 9 | Jan. 2 |
+[Linear Regression][1-1J]                  | Unit 3 | Session 10 | Jan. 4 |
+[Train-Test Split & Bias-Variance][1-1K]   | Unit 3 | Session 11 | Jan. 9 |
+[KNN / Classification][1-1L]               | Unit 3 | Session 12 | Jan. 11 |
+[Logistic Regression][1-1M]                | Unit 3 | Session 13 | Jan. 16 |
+[Decision Trees][1-1Q]                     | Unit 3 | Session 14 | Jan. 18 |
+[Review + Project Workshop][1-1N]          | Unit 3 | Session 15 | Jan. 23 |
+[Clustering][1-1R]                         | Unit 4 | Session 16 | Jan. 25 |
+[Natural Language Processing][1-1P]        | Unit 4 | Session 17 | Jan. 30 |
+[Getting Data from API's][1-1O]            | Unit 4 | Session 18 | Feb. 1 |
+[Review + Project Workshop][1-1T]          | Unit 4 | Session 19 | Feb. 6 |
+[Project Presentations][1-1U]              | Unit 4 | Session 20 | Feb. 8 |
 
 
 [1-1A]: X
@@ -112,7 +125,7 @@ Tuesday  | Topic | Thursday  | Topic
 12/05 |Python Foundations                 |12/07 |Review + Project Workshop
 12/12 |Statistics Review                  |12/14 |Stats & Visualizations in Python
 12/19 |Exploratory Data Analysis          |12/21 |Data Visualization in Python
-12/26 |Review + Project Workshop          |01/04 |Linear Regression
+01/02 |Review + Project Workshop          |01/04 |Linear Regression
 01/09 |Train-Test Split & Bias-Variance   |01/11 |KNN / Classification
 01/16 |Logistic Regression                |01/18 |Decision Trees
 01/23 |Review + Project Workshop          |01/25 |Clustering
@@ -155,19 +168,17 @@ The final project asks you to apply your skills to a real world problem. This fi
 
 ---
 
-Tuesday  | Deliverable | Thursday  | Deliverable
--------- | ---------   | ---------  | ---------
-11/28 |-               |11/30       |-
-12/05 |-               |12/07       |Unit Project 1 - Python Code Challenges
-12/12 |-               |12/14 |-
-12/19 |-               |12/21 |-
-12/26 |Unit Project 2 - Exploratory Data Analysis (EDA)        |01/04 |Final Pt 1: Create Problem statement
-01/09 |-   |09/07 |Final Pt 2: Define Data sources
-01/16 |-                                  |01/18 | Optional: Regression & KNN Practice
-01/23 |Final Pt 3: Perform EDA on Data|01/25 |-
-01/30 |-                                  |02/01 |Final Pt 4: Model Data
-02/06 |Project Workshop                   |02/08 |Final Project Presentations
-
+Date  | Deliverable |
+-------- | ---------   |
+12/07 | Unit Project 1 - Python Code Challenges
+01/02 | Unit Project 2 - Exploratory Data Analysis (EDA)
+01/04 | Final Pt 1: Create Problem statement
+01/07 | Final Pt 2: Define Data sources
+01/18 | Optional Project 3: Regression & KNN Practice
+01/23 | Final Pt 3: Perform EDA on Data
+02/01 | Final Pt 4: Model Data
+02/06 | Project Workshop
+02/08 | Final Project Presentations
 
 ---
 
@@ -219,9 +230,9 @@ Our Slack homepage is [datr1128](https://datascienceremote.slack.com/).
 ## Office Hours
 Every week, your instructional team will hold office hours where you can get in touch to ask questions about anything relating to the course. This is a *great opportunity* to follow up on questions or ask for more details about any topics covered so far.
 
-* IA Office Hours - Day, Time (or by Appointment)
+* IA Office Hours - By appointment using this link: (TBD)
 
-Slack us or post in our #officehours channel to reserve a time-slot!
+Slack us or post in our #datr1128-office-hours channel to reserve a time-slot!
 
 ---
 
