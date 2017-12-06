@@ -31,11 +31,11 @@ Specifically, you will learn to:
 ## Your Instructional Team
 
 **Instructor**:
-- [Stefan Jansen](https://www.linkedin.com/in/applied-ai/): stefan.jansen@generalassemb.ly
+- [Stefan Jansen](https://www.linkedin.com/in/applied-ai/): @Stefan, stefan.jansen@generalassemb.ly
 
 **Assistant**:
-- Beth Tenorio
-- Pauline Chow
+- Beth Tenorio: @beth, booking link is https://bethtenorio.youcanbook.me/
+- Pauline Chow: @pauline, booking link is https://paulinechow.youcanbook.me
 
 ---
 
