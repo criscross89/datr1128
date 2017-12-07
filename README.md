@@ -29,13 +29,14 @@ Specifically, you will learn to:
 ---
 <a id='team'></a>
 ## Your Instructional Team
+Please reach out to the instructional team via Slack!
 
-**Instructor**:
-- [Stefan Jansen](https://www.linkedin.com/in/applied-ai/): stefan.jansen@generalassemb.ly
+**Instructor**: 
+- [Stefan Jansen](https://www.linkedin.com/in/applied-ai/): @Stefan
 
 **Assistant**:
-- Beth Tenorio
-- Pauline Chow
+- Beth Tenorio: @beth, booking link is https://bethtenorio.youcanbook.me/
+- Pauline Chow: @pauline, booking link is https://paulinechow.youcanbook.me
 
 ---
 
